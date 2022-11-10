@@ -1,0 +1,5 @@
+{
+    "database_url": "mongourl",
+    "collection_tag": "python_",
+    "database_name": "test"
+}
